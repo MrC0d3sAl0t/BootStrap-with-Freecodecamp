@@ -34,7 +34,7 @@
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat"></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive">
-  <!-- Added btn-block to restructure the button to the size of the webpage -->
+  <!-- Added btn-block element to restructure the button to the size of the webpage -->
   <button class="btn btn-block">Like</button>
   <p>Things cats love:</p>
   <ul>
